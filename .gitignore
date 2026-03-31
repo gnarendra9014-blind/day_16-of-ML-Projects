@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Sensitive Credentials
+.env
+credentials.json
+token.json
+
+# IDE Settings
+.vscode/
+.idea/
